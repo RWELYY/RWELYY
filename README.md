@@ -24,3 +24,9 @@ I build production-ready AI systems using **Generative AI**, **RAG**, **LangChai
 ## 📫 Contact
 - GitHub: RWELYY
 - Email: (rwelyy@yahoo.com)
+
+## 🛠️ Skills & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,redux,mysql,mongodb,postgres,prisma,supabase,redis,express,tailwind" />
+</p>
