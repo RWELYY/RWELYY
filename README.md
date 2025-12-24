@@ -1,6 +1,6 @@
 # Hi, I'm Omar 👋
 
-**AI Engineer** with a full-stack background (React, Next.js, Node.js).  
+**AI Engineer** | **Full-Stack Engineer** (React, Next.js, Node.js).
 I build production-ready AI systems using **Generative AI**, **RAG**, **LangChain**, and **vector databases**.
 
 ---
