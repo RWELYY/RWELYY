@@ -4,7 +4,7 @@
   <a href="https://www.instagram.com/RWELYY" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://wa.me/201234567890" target="_blank">
+  <a href="https://wa.me/+971555494502" target="_blank">
     <img src="https://skillicons.dev/icons?i=whatsapp" />
   </a>
 </p>
