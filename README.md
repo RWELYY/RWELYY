@@ -1,6 +1,6 @@
 # Hi, I'm Omar 👋
 
-p align="left">
+<p align="left">
   <a href="https://www.instagram.com/RWELYY" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
