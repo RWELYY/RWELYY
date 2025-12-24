@@ -1,14 +1,5 @@
 # Hi, I'm Omar 👋
 
-<p align="left">
-  <a href="https://www.instagram.com/RWELYY" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://wa.me/+971555494502" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" />
-  </a>
-</p>
-
 **AI Engineer & Full-Stack Engineer** (React, Next.js, Node.js).  
 I build production-ready AI systems and scalable web applications using **Generative AI**, **RAG**, **LangChain**, and **vector databases**.
 ---
