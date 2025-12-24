@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**RWELYY/RWELYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** with a full-stack background (React, Next.js, Node.js).  
+I build production-ready AI systems using **Generative AI**, **RAG**, **LangChain**, and **vector databases**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I do
+- Build **RAG-based chatbots** and AI assistants
+- Integrate **LLMs** into real products (APIs + Web apps)
+- Work with **Embeddings**, **Chunking**, **Retrieval**, and **Prompting**
+- Develop scalable full-stack apps with **Next.js / Node.js**
+
+---
+
+## 🧠 Tech Stack
+**AI / GenAI:** LangChain, RAG, OpenAI API, Google Gemini, Embeddings, Vector Databases (Pinecone, ChromaDB)  
+**Backend:** Node.js, Express, PostgreSQL, MySQL, Prisma ORM  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Tools:** Git, GitHub, REST APIs
+
+---
+
+## 📫 Contact
+- GitHub: RWELYY
+- Email: (rwelyy@yahoo.com)
